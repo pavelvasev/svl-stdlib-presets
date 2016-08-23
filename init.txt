@@ -1,0 +1,7 @@
+array/chast-massiva.preset.qml
+array/spiral-compute.preset.qml
+array/uzelok-compute.preset.qml
+array-editor/sod-spiral.preset.qml
+fon/fiol.preset.qml
+fon/green.preset.qml
+fon/std.preset.qml
